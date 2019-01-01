@@ -1,0 +1,5 @@
+.ipynb_checkpoints/
+cs231n/datasets/MNIST_data/
+cs231n/datasets/coco_captioning/
+cs231n/__pycache__/
+cs231n/classifiers/__pycache__/
